@@ -1,0 +1,7 @@
+C:\Users\Wade.Philander\Documents\WeatherLibrary\bin\Debug\netstandard2.0\WeatherLibrary.deps.json
+C:\Users\Wade.Philander\Documents\WeatherLibrary\bin\Debug\netstandard2.0\WeatherLibrary.dll
+C:\Users\Wade.Philander\Documents\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.AssemblyInfoInputs.cache
+C:\Users\Wade.Philander\Documents\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.AssemblyInfo.cs
+C:\Users\Wade.Philander\Documents\WeatherLibrary\bin\Debug\netstandard2.0\WeatherLibrary.pdb
+C:\Users\Wade.Philander\Documents\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.dll
+C:\Users\Wade.Philander\Documents\WeatherLibrary\obj\Debug\netstandard2.0\WeatherLibrary.pdb
